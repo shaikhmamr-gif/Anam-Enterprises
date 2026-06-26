@@ -1,0 +1,6 @@
+{
+  "name": "Anam Enterprises",
+  "description": "Delivery partner and bike rental management system for BigBasket, Zepto, and Myntra, including bike rental inventory and registration document recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
